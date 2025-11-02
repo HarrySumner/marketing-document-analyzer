@@ -1,0 +1,13 @@
+# Web interface
+streamlit>=1.31.0
+plotly>=5.18.0
+
+# NLP and Text Analysis
+textblob>=0.17.1
+
+# Data processing
+pandas>=2.0.0
+
+# Optional: for enhanced features
+# anthropic>=0.18.0
+# python-dotenv>=1.0.0
